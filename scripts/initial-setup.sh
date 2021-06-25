@@ -16,7 +16,7 @@ ip addr | grep 'inet '
 
 sudo apt install git lsb-release
 
-cd
+cd $HOME
 git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 
 sudo raspi-config
