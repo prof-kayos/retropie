@@ -19,4 +19,6 @@ sudo apt install git lsb-release
 cd $HOME
 git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
 
+cd RetroPie-Setup
+
 sudo raspi-config
